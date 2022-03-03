@@ -6,7 +6,7 @@ const Connection = ({ connect, disconnect, connectBtn }) => {
 	const record = {
 		host: "websocket.onskycloud.com",
 		clientId: `iot-admin-react-client-`,
-		port: 38675,
+		port: 443,
 	}
 	const onFinish = (values) => {
 		const { host, clientId, port } = values
