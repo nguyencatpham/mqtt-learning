@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mqtt-learning/static/css/main.622274c6.css",
+    "main.js": "/mqtt-learning/static/js/main.e6022735.js",
+    "index.html": "/mqtt-learning/index.html",
+    "main.622274c6.css.map": "/mqtt-learning/static/css/main.622274c6.css.map",
+    "main.e6022735.js.map": "/mqtt-learning/static/js/main.e6022735.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.622274c6.css",
+    "static/js/main.e6022735.js"
+  ]
+}
